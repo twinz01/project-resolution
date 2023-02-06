@@ -1,11 +1,17 @@
 New Plan
 - Bla Bla Bla
+ ~ La
+ ~ La
  ~ Lorem
 - Lorem Ipsum 2
  ~ Lorem
  ~ col
  ~ et
+ ~ Day
 - Lorem Ipsum 3
   ~ Lorem
   ~ Ipsum
+  ~ Hello
+  ~ World
+  ~ Nice
 
