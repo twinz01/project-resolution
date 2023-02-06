@@ -1,2 +1,4 @@
 New Plan
 - Bla Bla Bla
+- Lorem Ipsum
+- Lorem Ipsum 2
