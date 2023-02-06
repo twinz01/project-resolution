@@ -1,9 +1,11 @@
 New Plan
 - Bla Bla Bla
+ ~ Lorem
 - Lorem Ipsum 2
-  ~ Lorem
-  ~ Ipsum
-  ~ dol
+ ~ Lorem
+ ~ col
+ ~ et
 - Lorem Ipsum 3
   ~ Lorem
   ~ Ipsum
+
