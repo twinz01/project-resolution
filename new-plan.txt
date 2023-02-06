@@ -6,6 +6,6 @@ New Plan
  ~ col
  ~ et
 - Lorem Ipsum 3
- ~ Ipsum
- ~ et
- ~ col
+  ~ Lorem
+  ~ Ipsum
+
